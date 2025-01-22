@@ -1,4 +1,4 @@
-# 🎆Welcome to the Official Repo for "EARAM-for-fake-news-detection"! 
+# 🎆Welcome to the Official Repo for EARAM! 
 Welcome to our repository!
 
 This repo contains the code and data used in the experiments for our paper, "**From Predictions to Analyses: Explainable Rationale-Augmented Fake News Detection with Large Vision-Language Models**".
